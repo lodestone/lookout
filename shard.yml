@@ -1,0 +1,13 @@
+name: lookout
+version: 0.1.0
+
+authors:
+  - Matt Petty <matt@kizmeta.com>
+
+targets:
+  lookout:
+    main: src/lookout.cr
+
+crystal: 0.24.1
+
+license: MIT

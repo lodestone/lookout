@@ -1,0 +1,6 @@
+= lookout
+Matt Petty <matt@kizmeta.com>
+
+NOTE: WIP
+
+Watches files
